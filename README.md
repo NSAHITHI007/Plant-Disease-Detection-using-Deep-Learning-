@@ -1,6 +1,6 @@
 # Plant-Disease-Detection-using-Deep-Learning-
 
-🌱 # Plant Disease Detection using Transfer Learning
+# 🌱 Plant Disease Detection using Transfer Learning
 
 This project focuses on early detection of plant diseases using deep learning, helping farmers and researchers improve crop management and prevent food production losses. Built a web-based application that classifies plant leaf images as healthy or diseased using state-of-the-art CNN models.
 
